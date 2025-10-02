@@ -1,0 +1,11 @@
+Asteroid Orbit Determination ----------------------------------------------------
+
+This uses the Method of Gauss and Dr Dubson's OD Packet specifically from 3 Right Ascensions, Declinations, Times and Sun-Earth vectors to compute the Position and Velocity vector of the second observation
+
+This is used to calculate the orbital elements as follows:
+a = semi-major axis
+e = eccentricity
+i = inclination
+OMEGA = longitude of ascending node
+omega = argument of perihelion
+T = time of perihelion passage
