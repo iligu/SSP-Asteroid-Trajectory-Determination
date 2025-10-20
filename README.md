@@ -1,4 +1,4 @@
-#Asteroid Orbit Determination#
+# Asteroid Orbit Determination
 
 This uses the Method of Gauss specifically from 3 Right Ascensions, Declinations, Times and Sun-Earth vectors to compute the Position and Velocity vector of the second observation
 
